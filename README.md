@@ -13,4 +13,3 @@ LegalEase_group02_MidtermSubmit
 =======================================
 Documentations: https://github.com/L3nhan/gitHUBPush/tree/master/Documentations
 =======================================
-Thank you for visit our website.
