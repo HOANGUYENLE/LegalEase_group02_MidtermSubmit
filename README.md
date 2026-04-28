@@ -10,6 +10,7 @@ LegalEase_group02_MidtermSubmit
 2. Trần Quốc Anh (Student1704190)
 3. Dương Quốc Phú (Student1690422)
 4. Huỳnh Toàn Thắng (Student1707377)
+
 =======================================
 Documentations: https://github.com/L3nhan/gitHUBPush/tree/master/Documentations
 =======================================
