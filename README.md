@@ -14,6 +14,6 @@ LegalEase_group02_MidtermSubmit
 
 =======================================
 
-Documentations: https://github.com/HOANGUYENLE/LegalEase_group02_MidtermSubmit/tree/main/Documentations
+Documentations: https://github.com/HOANGUYENLE/eProjectSem01/tree/main/Documentations
 
 =======================================
